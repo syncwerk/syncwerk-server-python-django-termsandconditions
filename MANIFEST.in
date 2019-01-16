@@ -1,0 +1,9 @@
+include termsandconditions/LICENSE
+include termsandconditions/static/termsandconditions/css/modal.css
+include termsandconditions/static/termsandconditions/js/modal.js
+include termsandconditions/templates/termsandconditions/snippets/termsandconditions.html
+include termsandconditions/templates/termsandconditions/tc_accept_terms.html
+include termsandconditions/templates/termsandconditions/tc_email_terms_form.html
+include termsandconditions/templates/termsandconditions/tc_email_terms.html
+include termsandconditions/templates/termsandconditions/tc_print_terms.html
+include termsandconditions/templates/termsandconditions/tc_view_terms.html
